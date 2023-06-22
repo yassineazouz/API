@@ -1,0 +1,31 @@
+.user-list-container {
+    background-color: red;
+    padding: 20px;
+  }
+  
+  .user-list-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .user-list-item {
+    margin-bottom: 10px;
+  }
+  
+  .user-list-name {
+    font-weight: bold;
+  }
+  
+  .user-list-email {
+    color: #888;
+  }
+  
+  .user-list-username {
+    color: #555;
+  }
+  
+  .user-list-website {
+    color: #555;
+  }
+  
